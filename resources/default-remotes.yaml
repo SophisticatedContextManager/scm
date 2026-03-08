@@ -3,5 +3,5 @@
 
 remotes:
   scm-main:
-    url: https://github.com/sophisticiatedContextManager/scm-main
+    url: https://github.com/SophisticatedContextManager/scm-main
     version: v1
